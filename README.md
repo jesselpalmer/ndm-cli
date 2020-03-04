@@ -1,3 +1,3 @@
 # NDM-CLI
 
-CLI to manage NPM dependencies.
+CLI to manage npm dependencies
